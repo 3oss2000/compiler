@@ -1,0 +1,13 @@
+beautifultable==1.1.0
+click==8.0.4
+colorama==0.4.5
+importlib-metadata==4.8.3
+importlib-resources==5.4.0
+joblib==1.1.1
+nltk==3.6.7
+numpy==1.19.5
+regex==2022.10.31
+tqdm==4.64.1
+typing_extensions==4.1.1
+wcwidth==0.2.5
+zipp==3.6.0
